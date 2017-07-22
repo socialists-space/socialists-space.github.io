@@ -1,0 +1,36 @@
+body {
+    padding-top: 2rem;
+}
+
+.align-bottom {
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.button {
+    color: #ed1b24 !important;
+    border-color: #ed1b24;
+    background-color: white;
+}
+
+.button:hover {
+    background-color: #ed1b24;
+    color: white !important;
+}
+
+.button-outline {
+    color: #ed1b24 !important;
+    border-color: #ed1b24;
+}
+
+.button-outline:hover {
+    color: #ed1b24 !important;
+}
+
+.full-width {
+    width: 100% !important;
+}
+
+.red {
+    color: #ed1b24;
+}
