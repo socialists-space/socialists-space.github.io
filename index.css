@@ -8,23 +8,23 @@ body {
 }
 
 .button {
-    color: #ed1b24 !important;
-    border-color: #ed1b24;
+    color: #ec1f27 !important;
+    border-color: #ec1f27;
     background-color: white;
 }
 
 .button:hover {
-    background-color: #ed1b24;
+    background-color: #ec1f27;
     color: white !important;
 }
 
 .button-outline {
-    color: #ed1b24 !important;
-    border-color: #ed1b24;
+    color: #ec1f27 !important;
+    border-color: #ec1f27;
 }
 
 .button-outline:hover {
-    color: #ed1b24 !important;
+    color: #ec1f27 !important;
 }
 
 .full-width {
@@ -32,5 +32,5 @@ body {
 }
 
 .red {
-    color: #ed1b24;
+    color: #ec1f27;
 }
