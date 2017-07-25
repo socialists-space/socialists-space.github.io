@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Space Coast DSA</title>
+    <link>http://socialists.space/</link>
+    <description>Recent content in Home on Space Coast DSA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://socialists.space/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Register Interest</title>
+      <link>http://socialists.space/register-interest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://socialists.space/register-interest/</guid>
+      <description>If you have an interest in joining our organizing committee (OC), our future chapter or just as someone wanting to find out more, please don&amp;rsquo;t hesitate to reach out to us using the following form, or contact us via the methods listed to the left.
+[Google Form Goes Here]</description>
+    </item>
+    
+  </channel>
+</rss>
